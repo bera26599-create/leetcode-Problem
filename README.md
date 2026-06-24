@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0507-perfect-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bera26599-create/leetcode-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2485-find-the-pivot-integer](https://github.com/bera26599-create/leetcode-Problem/tree/master/2485-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bera26599-create/leetcode-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
