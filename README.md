@@ -38,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [2485-find-the-pivot-integer](https://github.com/bera26599-create/leetcode-Problem/tree/master/2485-find-the-pivot-integer) |
 ## Math
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0507-perfect-number) |
+| [2485-find-the-pivot-integer](https://github.com/bera26599-create/leetcode-Problem/tree/master/2485-find-the-pivot-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
