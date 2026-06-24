@@ -27,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bera26599-create/leetcode-Problem/tree/master/0001-two-sum) |
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [1189-maximum-number-of-balloons](https://github.com/bera26599-create/leetcode-Problem/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
+| [1189-maximum-number-of-balloons](https://github.com/bera26599-create/leetcode-Problem/tree/master/1189-maximum-number-of-balloons) |
 | [2938-separate-black-and-white-balls](https://github.com/bera26599-create/leetcode-Problem/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/bera26599-create/leetcode-Problem/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
