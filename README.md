@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bera26599-create/leetcode-Problem/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 | [2938-separate-black-and-white-balls](https://github.com/bera26599-create/leetcode-Problem/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -50,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0136-single-number) |
+| [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bera26599-create/leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
