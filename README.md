@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0263-ugly-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0263-ugly-number) |
+| [0507-perfect-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0507-perfect-number) |
 ## Bit Manipulation
 |  |
 | ------- |
