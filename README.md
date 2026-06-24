@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bera26599-create/leetcode-Problem/tree/master/0035-search-insert-position) |
+| [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bera26599-create/leetcode-Problem/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2938-separate-black-and-white-balls](https://github.com/bera26599-create/leetcode-Problem/tree/master/2938-separate-black-and-white-balls) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
