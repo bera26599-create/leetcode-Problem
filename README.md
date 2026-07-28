@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bera26599-create/leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0414-third-maximum-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
