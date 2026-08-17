@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1470-shuffle-the-array) |
+| [1652-defuse-the-bomb](https://github.com/bera26599-create/leetcode-Problem/tree/master/1652-defuse-the-bomb) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/bera26599-create/leetcode-Problem/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
