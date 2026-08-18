@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/0027-remove-element) |
+| [0202-happy-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0283-move-zeroes) |
 | [2938-separate-black-and-white-balls](https://github.com/bera26599-create/leetcode-Problem/tree/master/2938-separate-black-and-white-balls) |
 ## Binary Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/bera26599-create/leetcode-Problem/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/bera26599-create/leetcode-Problem/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0172-factorial-trailing-zeroes) |
+| [0202-happy-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0263-ugly-number) |
 | [0507-perfect-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bera26599-create/leetcode-Problem/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -96,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1652-defuse-the-bomb](https://github.com/bera26599-create/leetcode-Problem/tree/master/1652-defuse-the-bomb) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
