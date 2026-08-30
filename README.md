@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bera26599-create/leetcode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/bera26599-create/leetcode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/bera26599-create/leetcode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [2485-find-the-pivot-integer](https://github.com/bera26599-create/leetcode-Problem/tree/master/2485-find-the-pivot-integer) |
 ## Math
