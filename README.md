@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bera26599-create/leetcode-Problem/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/bera26599-create/leetcode-Problem/tree/master/0682-baseball-game) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/bera26599-create/leetcode-Problem/tree/master/1652-defuse-the-bomb) |
@@ -105,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/bera26599-create/leetcode-Problem/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bera26599-create/leetcode-Problem/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/bera26599-create/leetcode-Problem/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
