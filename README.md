@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/bera26599-create/leetcode-Problem/tree/master/1470-shuffle-the-array) |
 | [1652-defuse-the-bomb](https://github.com/bera26599-create/leetcode-Problem/tree/master/1652-defuse-the-bomb) |
+| [3866-first-unique-even-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bera26599-create/leetcode-Problem/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/bera26599-create/leetcode-Problem/tree/master/0560-subarray-sum-equals-k) |
 | [1189-maximum-number-of-balloons](https://github.com/bera26599-create/leetcode-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [3866-first-unique-even-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## String
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/bera26599-create/leetcode-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [3866-first-unique-even-element](https://github.com/bera26599-create/leetcode-Problem/tree/master/3866-first-unique-even-element) |
 ## Divide and Conquer
 |  |
 | ------- |
